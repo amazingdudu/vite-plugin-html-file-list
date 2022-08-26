@@ -1,0 +1,10 @@
+.DS_Store
+.editorconfig
+.eslintignore
+.gitignore
+.prettierignore
+node_module
+package-lock.json
+.eslintcache
+.husky/*
+dist
